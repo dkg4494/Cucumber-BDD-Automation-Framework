@@ -6,4 +6,15 @@
       <class name="com.cucumberFramework.testRunner.TestRunner"/>
     </classes>
   </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.cucumberFramework.testRunner.TestRunner">
+        <methods>
+          <include name="testDownClass"/>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.cucumberFramework.testRunner.TestRunner -->
+    </classes>
+  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
