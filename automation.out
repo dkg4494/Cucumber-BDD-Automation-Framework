@@ -1,20 +1,20 @@
-2020-04-10 15:04:989 INFO  WaitHelper:21 - waiting for element visibilityOf..
-2020-04-10 15:04:583 INFO  WaitHelper:24 - element is visible..
-2020-04-10 15:04:670 INFO  WaitHelper:21 - waiting for element visibilityOf..
-2020-04-10 15:04:952 INFO  WaitHelper:24 - element is visible..
-2020-04-10 15:04:466 INFO  ServiceHooks:43 - Login into the application with valid credentials is pass
-2020-04-10 15:04:421 INFO  WaitHelper:21 - waiting for element visibilityOf..
-2020-04-10 15:04:926 INFO  WaitHelper:24 - element is visible..
-2020-04-10 15:04:677 INFO  WaitHelper:21 - waiting for element visibilityOf..
-2020-04-10 15:04:794 INFO  WaitHelper:24 - element is visible..
-2020-04-10 15:04:963 INFO  ServiceHooks:43 - Searching different products after login is pass
-2020-04-10 15:04:54 INFO  WaitHelper:21 - waiting for element visibilityOf..
-2020-04-10 15:04:551 INFO  WaitHelper:24 - element is visible..
-2020-04-10 15:04:229 INFO  WaitHelper:21 - waiting for element visibilityOf..
-2020-04-10 15:04:603 INFO  WaitHelper:24 - element is visible..
-2020-04-10 15:04:861 INFO  ServiceHooks:43 - Searching different products after login is pass
-2020-04-10 15:04:455 INFO  WaitHelper:21 - waiting for element visibilityOf..
-2020-04-10 15:04:795 INFO  WaitHelper:24 - element is visible..
-2020-04-10 15:04:852 INFO  WaitHelper:21 - waiting for element visibilityOf..
-2020-04-10 15:04:89 INFO  WaitHelper:24 - element is visible..
-2020-04-10 15:04:204 INFO  ServiceHooks:43 - Searching different products after login is pass
+2020-04-12 11:04:697 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-04-12 11:04:696 INFO  WaitHelper:24 - element is visible..
+2020-04-12 12:04:408 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-04-12 12:04:442 INFO  WaitHelper:24 - element is visible..
+2020-04-12 12:04:692 INFO  ServiceHooks:43 - Login into the application with valid credentials is pass
+2020-04-12 12:04:279 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-04-12 12:04:338 INFO  WaitHelper:24 - element is visible..
+2020-04-12 12:04:130 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-04-12 12:04:214 INFO  WaitHelper:24 - element is visible..
+2020-04-12 12:04:191 INFO  ServiceHooks:43 - Searching different products after login is pass
+2020-04-12 12:04:950 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-04-12 12:04:984 INFO  WaitHelper:24 - element is visible..
+2020-04-12 12:04:156 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-04-12 12:04:215 INFO  WaitHelper:24 - element is visible..
+2020-04-12 12:04:488 INFO  ServiceHooks:43 - Searching different products after login is pass
+2020-04-12 12:04:126 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-04-12 12:04:313 INFO  WaitHelper:24 - element is visible..
+2020-04-12 12:04:349 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-04-12 12:04:399 INFO  WaitHelper:24 - element is visible..
+2020-04-12 12:04:375 INFO  ServiceHooks:43 - Searching different products after login is pass
